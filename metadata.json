@@ -1,6 +1,8 @@
 {
-  "name": "Oni Ronin — Dark Fantasy Action RPG",
+  "name": "MB MAHODI POTFILO",
   "description": "Oni Ronin — a masterless demon samurai walks a broken feudal underworld.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
